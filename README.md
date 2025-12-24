@@ -13,3 +13,4 @@ If you have issues with subscription, purchase, or “Restore Purchases”, plea
 
 ## Privacy
 This app does not collect personal data without your consent.
+This app is a cat soundboard for entertainment purposes only.
